@@ -80,3 +80,21 @@ html{
 
 
 }
+@media (max-width:600px) {
+
+  .formulario {
+    position: fixed;
+    top: 25px;
+    width: 400px;
+    height: 100%;
+    z-index: 3;
+    left: -100%;
+    transition: 1s;
+  }
+  .rodape{
+    padding: 1px;
+  }
+  button{
+    padding: 10px;
+  }
+}
