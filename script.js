@@ -1,7 +1,7 @@
 let formulario = document.querySelector(".formulario")
 
 function aparecerFormulario(){
-    formulario.style.left ="35%"
+    formulario.style.left ="38%"
 
 
 }
